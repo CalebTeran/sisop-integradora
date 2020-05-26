@@ -34,6 +34,8 @@
         <tbody><tr>
             <th>Heroku</th>
             <th>Mi App heroku</th>
+            <th>link powershell</th>
+
         </tr>
 
         <tr>
@@ -52,6 +54,9 @@
         <tr>
             <td><a href="https://www.000webhost.com/" target="_blank">000WebHost</a></td>
             <td><a href="https://jehuteran.000webhostapp.com" target="_blank">Mi proyecto 000WebHost</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">Power Shell</a></td>
         </tr>
     </tbody></table>
    </div>
