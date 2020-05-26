@@ -1,0 +1,86 @@
+/* este es por medio del elemento html*/
+body{
+background: #6190E8;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #A7BFE8, #6190E8);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #A7BFE8, #6190E8); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+text-align: center;
+}
+/* Esta es por medio de class */
+.tabla{
+	background: #307E4A;
+	margin: auto;
+}
+
+/* Este es por medio de id */
+#tablaBox{
+	border: 2px ; 
+	border-style: double;
+	font-family: fantasy;
+	font-size: 20;
+}
+/* Este es un comentario en css */
+img{
+	display: flex;
+	width: 60px;
+	height: 80px;	
+	padding-right: 820px;
+	margin-bottom: 100px;
+	position: fixed; 
+}
+.btn{
+	background: #E00A19;	
+}
+@media screen and (width: 600px) {
+    body {
+        color: red;
+    }
+}
+.box {
+  background-color: #567895;
+}
+
+h2 {
+  background-color: black;
+  color: white;
+}
+span {
+  background-color: rgba(255,255,255,.5);
+}
+.box2{
+	width: 200px;
+	height: 200px;
+	border-style: dashed;
+	border: 5px;
+  background-image: url(https://scontent.fhmo2-1.fna.fbcdn.net/v/t1.0-9/92527810_660360634538580_735851257855475712_n.jpg?_nc_cat=100&_nc_sid=85a577&_nc_ohc=VjZ18zFboj0AX-a4Ox8&_nc_ht=scontent.fhmo2-1.fna&oh=42d188dbdb7ca3f7770fb7af96943ea9&oe=5EEF273A);
+  background-repeat: repeat;
+}
+.container {
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    border-style: ridge;
+    border: 3px blue;
+}
+.colorBox1{
+	background-color: #1C129E; 
+}
+.colorBox2{
+	background-color: white; 
+}
+.colorBox3{
+	background-color: red; 
+}
+.colorBox4{
+	background-color: green 
+}
+.colorBox5{
+	background-color: yellow; 
+}
+.colorBox6{
+	background-color: purple; 
+}
+.colorBox7{
+	background-color: orange; 
+}
+.colorBox8{
+	background-color: brown; 
+}
