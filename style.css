@@ -7,18 +7,41 @@ text-align: center;
 }
 /* Esta es por medio de class */
 .tabla{
-	background: #307E4A;
+	text-align: center;
+	background: black;
 	margin: auto;
+	display:grid;
+	align-items: center;
 }
 
 /* Este es por medio de id */
 #tablaBox{
+	text-align: center;
+	background: black;
 	border: 2px ; 
 	border-style: double;
-	font-family: fantasy;
-	font-size: 20;
+	font-family: serif;
+	font-size: 20;	
+	align-items: center;
+	align-content: center;
 }
 /* Este es un comentario en css */
+a{
+	text-decoration: none;
+	color: white;
+}
+td{
+	background: black;
+	font-family: sans-serif;
+	color: white;
+	text-align: center;
+}
+th{
+	background: black;
+	color: white;
+	font-size: 30px;
+	text-align: center;
+}
 img{
 	display: flex;
 	width: 60px;
@@ -70,7 +93,7 @@ span {
 	background-color: red; 
 }
 .colorBox4{
-	background-color: green 
+	background-color: green; 
 }
 .colorBox5{
 	background-color: yellow; 

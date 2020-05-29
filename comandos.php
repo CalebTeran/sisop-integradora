@@ -17,61 +17,66 @@
 	<caption>Lista de comandos</caption>
 	<thead>
 		<tr>
-			<th>Windows</th>
-			<th>Linux</th>
-			<th>Descripcion</th>
+			<th><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Windows&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></th>
+			<th><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Linux&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></th>
+			<th><strong>&nbsp;&nbsp;&nbsp;&nbsp;Descripcion&nbsp;&nbsp;&nbsp;&nbsp;</strong></th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td>cd</td>
-			<td>cd</td>
-			<td>data</td>
+			<td>help</td>
+			<td>man</td>
+			<td>ayuda</td>
+		</tr>
+		<tr>
+			<td>cls</td>
+			<td>clear</td>
+			<td>Limpia la consola</td>
 		</tr>
 		<tr>
 			<td>ls</td>
 			<td>ls</td>
+			<td>muestra los archivos de la capeta actual</td>
+		</tr>
+		<tr>
+			<td>cls</td>
+			<td>clear</td>
 			<td>data</td>
 		</tr>
 		<tr>
+			<td>f7/ fin+f7</td>
+			<td>history</td>
 			<td>data</td>
-			<td>data</td>
-			<td>data</td>
+		</tr>
+			<td>cd</td>
+			<td>pwd</td>
+			<td>muestra la ruta actual</td>
 		</tr>
 		<tr>
-			<td>data</td>
-			<td>data</td>
-			<td>data</td>
+			<td>cd/ruta</td>
+			<td>cd/ruta</td>
+			<td>Cambia el directorio al especificado</td>
 		</tr>
 		<tr>
-			<td>data</td>
-			<td>data</td>
-			<td>data</td>
+			<td>dir</td>
+			<td>ls</td>
+			<td>muestra el contenido de la ruta actual</td>
 		</tr>
 		<tr>
-			<td>data</td>
-			<td>data</td>
-			<td>data</td>
-		</tr>
-		<tr>
-			<td>data</td>
-			<td>data</td>
-			<td>data</td>
-		</tr>
 		<tr>	
-			<td>data</td>
-			<td>data</td>
-			<td>data</td>
+			<td>mkdir</td>
+			<td>mkdir</td>
+			<td>Crea una carpeta nueva</td>
 		</tr>
 		<tr>
-			<td>data</td>
-			<td>data</td>
-			<td>data</td>
+			<td>type nul > your_file.txt / echo.> your_file.txt</td>
+			<td>touch</td>
+			<td>Crear un archivo</td>
 		</tr>
 		<tr>
-			<td>data</td>
-			<td>data</td>
-			<td>data</td>
+			<td>sudo</td>
+			<td>sudo</td>
+			<td>Ejecuta la acción con privilegios de administrador</td>
 		</tr>
 	</tbody>
 </table>

@@ -7,11 +7,13 @@
 	<link rel="stylesheet" href="style.css">
 </head>
 <body>  
+   <div class="header">    
     <img src="img/shibita.png" alt="shibitahermoso">
     <h1>Jehú Terán</h1>
-    <a href="comandos.html">Lista de comandos de terminal</a>
+    <a href="comandos.php">Lista de comandos de terminal</a>
+   </div>
+   
    <div id="tablaBox">
-       
     <table class="tabla">
         <tbody><tr>
             <th>Practicas de sistemas operativas</th>
@@ -20,7 +22,7 @@
 
         <tr>
             <td><a href="https://ubuntu.com/" target="_blank">Ubuntu</a></td>
-            <td><a href="integrador.html">Lista de comandos</a></td>
+            <td><a href="comandos.php">Lista de comandos</a></td>
         </tr>
 
         <tr>
@@ -40,7 +42,7 @@
 
         <tr>
             <td><a href="https://www.heroku.com/" target="_blank">Heroku</a></td>
-            <td><a href="https://juanapodaca.herokuapp.com/" target="_blank">Mi proyecto Heroku</a></td>
+            <td><a href="https://calubsenpai.herokuapp.com/" target="_blank">Mi proyecto Heroku</a></td>
             
         </tr>
     </tbody></table>
@@ -58,6 +60,23 @@
         <tr>
             <td><a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">Power Shell</a></td>
         </tr>
+    </tbody></table>
+
+        </tbody></table>    
+    <table>
+        <tbody><tr>
+            <th>Git Hub</th>
+            <th>GitLab</th>
+            <th>Git Hub Personal</th>
+            <th>GitLab Personal</th>
+            
+        </tr>
+        <tr>
+            <td><a href="https://www.github.com/" target="_blank">000WebHost</a></td>
+            <td><a href="https://www.gitlab.com" target="_blank">Mi proyecto 000WebHost</a></td>
+            <td><a href="https://github.com/CalebTeran" target="_blank">GitHub Personal</a></td>
+            <td><a href="https://gitlab.com/CalubSama" target="_blank">GitLab Persona</a></td>
+        </tr>     
     </tbody></table>
    </div>
    <button class="btn">BOTON</button> 
