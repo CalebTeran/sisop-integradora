@@ -49,7 +49,6 @@
             <td><a href="https://lubuntu.net" target="_blank">Lubuntu</a></td>
 
         </tr>
-<h1>Servidores Utilizados</h1>
      </tbody></table> <h1>Herramientas</h1>
             <br>
     <table>
@@ -57,6 +56,7 @@
             <th>link powershell</th>
             <th>Visual Studio</th>
             <th>Visual Studio Code</th>
+            <th>Sublime Text3</th>
             <th>Rufus</th>
             <th>Virtual Box</th>
         </tr>
@@ -64,8 +64,8 @@
             <td><a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">Power Shell</a></td>  <td><a href="https://visualstudio.microsoft.com/es/" target="_blank">VS</a></td>  <td><a href="https://code.visualstudio.com" target="_blank">VSCode</a></td>
                         <td><a href="https://www.virtualbox.org/" target="_blank">Virtual Box</a></td>
             <td><a href="https://rufus.ie/" target="_blank">Rufus</a></td>
+            <td><a href="https://www.sublimetext.com/3">Sublime3</a></td>
         </tr>
-<h1>Servidores Utilizados</h1>
      </tbody></table>
     <table>
         <tbody><tr>
